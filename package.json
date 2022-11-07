@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/alienao/Nasa/issues"
   },
-  "homepage": "https://github.com/alienao/Nasa#readme"
+  "homepage": "https://github.com/alienao/Nasa#readme",
+  "dependencies": {
+    "morgan": "^1.10.0"
+  }
 }
